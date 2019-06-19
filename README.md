@@ -1,10 +1,10 @@
 ![互联网 Java 秒杀系统设计与架构](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaoshashejitu.png)
 
-> 邮箱 : [QiuRunZe_key@163.com](QiuRunZe_key@163.com)
+> 邮箱 : [Mr.ChongY@outlook.com](Mr.ChongY@outlook.com)
 
-> Github : [https://github.com/qiurunze123](https://github.com/qiurunze123)
+> Github : [https://github.com/Orangeletbear/Orangeletbear.github.io](https://github.com/Orangeletbear/Orangeletbear.github.io)
 
-> QQ : [3341386488](3341386488)
+> QQ : [1471755989](1471755989)
 
 [![GQ Welcome](https://raw.githubusercontent.com/qiurunze123/imageall/master/2018.png)](https://github.com/qiurunze123)
 [![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://github.com/qiurunze123)
